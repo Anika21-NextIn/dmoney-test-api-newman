@@ -11,4 +11,7 @@ This is a demo testing project.
 2. Open cmd in the root folder
 4. Give the following commands to run:
    ``` npm start ```
+
+![image](https://github.com/Anika21-NextIn/dmoney-test-api-newman/assets/55154873/f77df54d-58c4-46bd-9d7d-b54d6714ffaf)
+
 ![image](https://github.com/Anika21-NextIn/dmoney-test-api-newman/assets/55154873/869bc323-5e56-4bbd-bfa0-756f15763e29)
